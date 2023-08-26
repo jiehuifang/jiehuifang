@@ -1,7 +1,5 @@
 # [Hi there](https://jiehuifang.github.io/) 👋
 
-[![Github visitor badge](https://visitor-badge.glitch.me/badge?page_id=jiehuifang)](https://github.com/jwenjian/visitor-badge)
-
 <!--
 **jiehuifang/jiehuifang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +20,3 @@ Here are some ideas to get you started:
 [![GitHub stats vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=jiehuifang&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub streak stats](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiehuifang&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
